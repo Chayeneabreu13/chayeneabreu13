@@ -1,16 +1,31 @@
-## Hi there 👋
+ #  Olá! Eu sou Chayene Abreu
 
-<!--
-**Chayeneabreu13/chayeneabreu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistema
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo meus conhecimentos em programação e explorando diferentes áreas do desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em Desenvolvimento de Software e Front-And e estou em busca de uma oportunidade de estágio na área de tcnologia.
+
+## 💻 Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Python
+- SQL
+
+## projetos
+🤖 Chay Bot Landing Page
+
+
+Landing page desenvolvimento com HTML
+e CSS para apresentação de um bot 
+de moderação para comunidades no
+Discord.
+
+## Contato
+✉️ E-mail: Chayeneabreu@outlook.com
+💼 Linkedin: www.linkedin.com/in/chayene-abreu
+
+Sempre aprendendo, praticando e desenvolvendo novos Projetos. 
