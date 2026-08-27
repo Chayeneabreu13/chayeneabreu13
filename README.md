@@ -24,6 +24,8 @@ e CSS para apresentação de um bot
 de moderação para comunidades no
 Discord.
 
+Site: https://chayeneabreu13.github.io/chay-bot-landing-page/
+
 ## Contato
 ✉️ E-mail: Chayeneabreu@outlook.com
 💼 Linkedin: www.linkedin.com/in/chayene-abreu
