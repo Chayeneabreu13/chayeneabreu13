@@ -25,6 +25,7 @@ de moderação para comunidades no
 Discord.
 
 Site: https://chayeneabreu13.github.io/chay-bot-landing-page/
+Site: https://chayeneabreu13.github.io/buscador-cep/
 
 ## Contato
 ✉️ E-mail: Chayeneabreu@outlook.com
