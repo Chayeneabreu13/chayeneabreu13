@@ -25,6 +25,12 @@ de moderação para comunidades no
 Discord.
 
 Site: https://chayeneabreu13.github.io/chay-bot-landing-page/
+
+Buscador de CEP
+
+
+Desenvolvi um Buscador de CEP, onde o usuário informa um CEP e a aplicação consulta os dados e exibe automaticamente rua, bairro, cidade e estado.
+
 Site: https://chayeneabreu13.github.io/buscador-cep/
 
 ## Contato
