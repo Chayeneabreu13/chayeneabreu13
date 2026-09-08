@@ -1,40 +1,65 @@
- #  Olá! Eu sou Chayene Abreu
+# ✨ Chayene Abreu
 
-Estudante de Análise e Desenvolvimento de Sistema
+### Front-end Developer em formação • Estudante de ADS
 
-Atualmente estou desenvolvendo meus conhecimentos em programação e explorando diferentes áreas do desenvolvimento de software.
+Olá! Sou Chayene, estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Front-end e Desenvolvimento de Software.
 
-Tenho interesse em Desenvolvimento de Software e Front-And e estou em busca de uma oportunidade de estágio na área de tcnologia.
+Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação, criação de interfaces e desenvolvimento web.
 
-## 💻 Tecnologias que estou estudando
+Gosto de transformar ideias em páginas funcionais, organizadas e responsivas, enquanto continuo evoluindo tecnicamente e construindo meu portfólio.
+
+---
+
+## 🚀 O que estou desenvolvendo
+
+- Landing pages responsivas
+- Interfaces web
+- Projetos com JavaScript
+- Consumo de APIs
+- Aplicações simples para praticar lógica de programação
+
+---
+
+## 🛠️ Tecnologias
+
 - HTML
 - CSS
 - JavaScript
 - Git
 - GitHub
-- Python
-- SQL
+- VS Code
 
-## projetos
-🤖 Chay Bot Landing Page
+---
 
+## 📂 Alguns projetos
 
-Landing page desenvolvimento com HTML
-e CSS para apresentação de um bot 
-de moderação para comunidades no
-Discord.
+- 🌐 Landing Page
+- 📍 Buscador de CEP
+- 🧮 Calculadora Web
+- ✅ To-Do List
 
-Site: https://chayeneabreu13.github.io/chay-bot-landing-page/
+---
 
-Buscador de CEP
+## 📚 Atualmente estudando
 
+- JavaScript
+- Desenvolvimento Front-end
+- Responsividade
+- Lógica de Programação
+- Git e GitHub
 
-Desenvolvi um Buscador de CEP, onde o usuário informa um CEP e a aplicação consulta os dados e exibe automaticamente rua, bairro, cidade e estado.
+---
 
-Site: https://chayeneabreu13.github.io/buscador-cep/
+## 🎯 Objetivo
 
-## Contato
-✉️ E-mail: Chayeneabreu@outlook.com
-💼 Linkedin: www.linkedin.com/in/chayene-abreu
+Busco uma oportunidade de estágio em Desenvolvimento Front-end ou Desenvolvimento de Software, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo na área de tecnologia.
 
-Sempre aprendendo, praticando e desenvolvendo novos Projetos. 
+---
+
+## 🌐 Conecte-se comigo
+
+[LinkedIn](www.linkedin.com/in/chayene-abreu) • [GitHub](https://github.com/Chayeneabreu13)
+
+---
+
+> Desenvolvendo um projeto de cada vez e evoluindo todos os dias. 💻✨
