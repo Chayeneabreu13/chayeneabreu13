@@ -1,65 +1,38 @@
 # ✨ Chayene Abreu
 
-### Front-end Developer em formação • Estudante de ADS
+### 📊 Analista de Dados em formação | Estudante de ADS
 
-Olá! Sou Chayene, estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Front-end e Desenvolvimento de Software.
+Olá! Sou Chayene, estudante de Análise e Desenvolvimento de Sistemas, atualmente direcionando meus estudos para a área de **Análise de Dados**.
 
-Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação, criação de interfaces e desenvolvimento web.
+Venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em análise, organização e visualização de dados.
 
-Gosto de transformar ideias em páginas funcionais, organizadas e responsivas, enquanto continuo evoluindo tecnicamente e construindo meu portfólio.
+Atualmente estudo e pratico ferramentas como:
 
----
+- 📊 Power BI
+- 📗 Excel
+- 🐍 Python
+- 🗄️ SQL
 
 ## 🚀 O que estou desenvolvendo
 
-- Landing pages responsivas
-- Interfaces web
-- Projetos com JavaScript
-- Consumo de APIs
-- Aplicações simples para praticar lógica de programação
+- Dashboards interativos no Power BI
+- Análise e visualização de dados
+- Tratamento e organização de bases de dados
+- Projetos com Excel
+- Consultas em SQL
+- Estudos com Python para análise de dados
 
----
+## 📂 Projetos
 
-## 🛠️ Tecnologias
+Em breve, novos projetos de Análise de Dados serão adicionados ao meu portfólio.
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📂 Alguns projetos
-
-- 🌐 Landing Page
-- 📍 Buscador de CEP
-- 🧮 Calculadora Web
-- ✅ To-Do List
-
----
-
-## 📚 Atualmente estudando
-
-- JavaScript
-- Desenvolvimento Front-end
-- Responsividade
-- Lógica de Programação
-- Git e GitHub
-
----
+Também possuo projetos anteriores de desenvolvimento Front-end, que fazem parte da minha trajetória de aprendizado em tecnologia.
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio em Desenvolvimento Front-end ou Desenvolvimento de Software, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo na área de tecnologia.
+Busco desenvolver cada vez mais minhas habilidades na área de dados e construir um portfólio com projetos práticos, visando oportunidades de estágio ou posições iniciais em **Análise de Dados**.
 
----
+## 📫 Contato
 
-## 🌐 Conecte-se comigo
-
-[LinkedIn](www.linkedin.com/in/chayene-abreu) • [GitHub](https://github.com/Chayeneabreu13)
-
----
-
-> Desenvolvendo um projeto de cada vez e evoluindo todos os dias. 💻✨
+- LinkedIn: www.linkedin.com/in/chayene-abreu
+- GitHub: github.com/Chayeneabreu13
